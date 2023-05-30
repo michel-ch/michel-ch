@@ -1,16 +1,13 @@
-### Hi there 👋
+### ✈️ Félicitation pour votre atterrissage sur mon profil GitHub ! 
 
-<!--
-**michel-ch/michel-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis intéressé par les domaines de la 💻Programmation Informatique, de 🤖l'Intelligence Articielle, de la ⚛️Physique.
 
-Here are some ideas to get you started:
+### Mes langages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Mes projets 🛠️
+
+📚 - Création d'une bibliothèque pour emprunter 
+
+🌐 - Création de site web pour l'entrée de compte rendus de stage
