@@ -9,9 +9,9 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ### Mes projets 🛠️
 
-📚 - Création d'une [bibliothèque](https://github.com/michel-ch/Projet-developpement/tree/main/AP1_2022) pour emprunter
+📚 - Création d'une [bibliothèque](https://github.com/michel-ch/Projet-developpement/tree/main/AP2%20ALGO) pour emprunter
 
-🛒 - Création d'une [caisse de vente](https://github.com/michel-ch/Projet-developpement/tree/main/AP2%20ALGO) pour commerce
+🛒 - Création d'une [caisse de vente](https://github.com/michel-ch/stage2) pour commerce
 
-🌐 - Création de site web pour l'entrée de compte rendus de stage
+🌐 - Création de [site web](https://github.com/michel-ch/Projet-developpement/tree/main/AP1_2022) pour l'entrée de compte rendus de stage
 
