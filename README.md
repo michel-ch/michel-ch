@@ -10,4 +10,7 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 📚 - Création d'une bibliothèque pour emprunter 
 
+🛒 - Création d'une caisse de vente pour commerce
+
 🌐 - Création de site web pour l'entrée de compte rendus de stage
+
