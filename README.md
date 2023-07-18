@@ -17,6 +17,6 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 ### 👨‍🎓 Apprentissage en cours
 
-😋 Je travaille sur 1 projet pour m'occuper :
-
 🎮 - Apprentissage de la [librairie SDL2](https://github.com/michel-ch/cpp) en  ![CPP](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+
+💻 - Entrainement de programmation en ![CPP](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) et ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white)
