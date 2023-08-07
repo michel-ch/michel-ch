@@ -15,8 +15,6 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 🌐 - Création de [site web](https://github.com/michel-ch/Projet-developpement/tree/main/AP1_2022) pour l'entrée de compte rendus de stage
 
-### 👨‍🎓 Apprentissage en cours
+### 👷‍♂️ Projets en cours
 
-🎮 - Apprentissage de la [librairie SDL2](https://github.com/michel-ch/cpp) en  ![CPP](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-
-💻 - Entrainement de programmation en ![CPP](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) et ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logoColor=white)
+💻 - Traduction d'images avec de l'intelligence artificielle.
