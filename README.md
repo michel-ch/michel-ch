@@ -17,4 +17,4 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 ### 👷‍♂️ Projets en cours
 
-💻 - Traduction d'images avec de l'intelligence artificielle et de traduction de langues.
+💻 - Traduction d'images avec de l'intelligence artificielle et de langues.
