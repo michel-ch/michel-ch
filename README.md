@@ -15,6 +15,8 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 🌐 - Création de site web pour l'entrée de compte rendus de stage
 
+💻 - Traduction d'images avec de l'intelligence artificielle et de langues.
+
 ### 👷‍♂️ Projets en cours
 
-💻 - Traduction d'images avec de l'intelligence artificielle et de langues.
+🧠 - Brainstorming PowerToys Plugin
