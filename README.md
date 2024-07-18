@@ -19,4 +19,4 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 ### 👷‍♂️ Projets en cours
 
-🧠 - Brainstorming PowerToys Plugin
+🧠 - Reflexion au sens de la vie
