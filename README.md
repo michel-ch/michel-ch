@@ -23,7 +23,7 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 
 🍕 - [Management of Pizza Company App](https://github.com/michel-ch/pizza)
 
-🎮 - [Unity 3D Games](https://github.com/michel-ch/unityXR)
+🎮 - [Unity 3D Game](https://github.com/michel-ch/unityXR)
 
 🎦 - [Image Processing](https://github.com/michel-ch/traitement-images)
 
