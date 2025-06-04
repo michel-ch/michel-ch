@@ -1,6 +1,6 @@
-### ✈️ Félicitation pour votre atterrissage sur mon profil GitHub ! 
+### ✈️ Congratulations on landing on my GitHub profile!
 
-Je suis intéressé par les domaines de la 💻Programmation Informatique, de 🤖l'Intelligence Articielle, de la ⚛️Physique.
+I'm interested in 💻Computer Programming, 🤖Artificial Intelligence, and ⚛️Physics.
 
 ### ⌨️ My knowledge
 
@@ -28,6 +28,8 @@ Je suis intéressé par les domaines de la 💻Programmation Informatique, de �
 🎦 - [Image Processing](https://github.com/michel-ch/traitement-images)
 
 🤖 - [Small Robot in Assembly](https://github.com/michel-ch/ASM-EvalBot)
+
+🎵 - [Out of deezer](https://github.com/michel-ch/musicDownloader)
 
 ### 👷‍♂️ Current projects
 
