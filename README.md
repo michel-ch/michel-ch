@@ -9,12 +9,6 @@ I'm interested in 💻Computer Programming, 🤖Artificial Intelligence, and ⚛
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=purple)  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MiniConda](https://img.shields.io/badge/miniconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ### Among my projects 🛠️
 
-📚 - [Creation of a library for borrowing books](https://github.com/michel-ch/BTS/tree/main/Projet-developpement-Java/AP2%20ALGO)
-
-🛒 - [Creation of a sales register for a business](https://github.com/michel-ch/BTS/tree/main/caisse-de-vente)
-
-🌐 - [Creation of a website for submitting internship reports](https://github.com/michel-ch/BTS/tree/main/Comptes-rendus-stage/AP1_2022)
-
 💻 - Image and language translation using artificial intelligence
 
 🎮 - [Small Python Game](https://github.com/michel-ch/chronoSpy)
