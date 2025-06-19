@@ -27,6 +27,8 @@ I'm interested in 💻Computer Programming, 🤖Artificial Intelligence, and ⚛
 
 🎦 - [Image Processing](https://github.com/michel-ch/traitement-images)
 
+🏠 - [Housing Prices](https://github.com/michel-ch/HousingPrices)
+
 🤖 - [Small Robot in Assembly](https://github.com/michel-ch/ASM-EvalBot)
 
 🎵 - [Out of deezer](https://github.com/michel-ch/musicDownloader)
