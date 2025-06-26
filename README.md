@@ -27,7 +27,7 @@ I'm interested in 💻Computer Programming, 🤖Artificial Intelligence, and ⚛
 
 🎵 - [Out of deezer](https://github.com/michel-ch/musicDownloader)
 
-⁉️ - [Quiz](michel-ch/quiz-app)
+⁉️ - [Quiz](https://github.com/michel-ch/quiz-app)
 
 ### 👷‍♂️ Current projects
 
