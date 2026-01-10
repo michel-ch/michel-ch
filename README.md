@@ -51,7 +51,7 @@ Development Tools & Platforms <br>
 
 ⁉️ - [Quiz](https://github.com/michel-ch/quiz-app)
 
-🚀  - [Solar System](https://github.com/michel-ch/solar-system)
+ 🚀 - [Solar System](https://github.com/michel-ch/solar-system)
 
 ### 👷‍♂️ Current projects
 
