@@ -1,4 +1,4 @@
-### ✈️ Congratulations on landing on my GitHub profile!
+### ✈️ Congratulations on landing on my Hub profile!
 
 I'm interested in 💻Computer Programming, 🤖Artificial Intelligence, and ⚛️Physics.
 
@@ -20,7 +20,7 @@ Data Science & ML <br>
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black&style=for-the-badge)
 
 Infrastructure & DevOps <br>
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 IDEs & Development Environments <br>
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![DBeaver](https://img.shields.io/badge/dbeaver-3DDC84?style=for-the-badge&logo=dbeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=purple) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -33,25 +33,25 @@ Development Tools & Platforms <br>
 
 💻 - Image and language translation using artificial intelligence
 
-🎮 - [Small Python Game](https://github.com/michel-ch/chronoSpy)
+🎮 - [Small Python Game](https://hub.com/michel-ch/chronoSpy)
 
-🎮 - [Space Invaders](https://github.com/michel-ch/SpaceInvaders)
+🎮 - [Space Invaders](https://hub.com/michel-ch/SpaceInvaders)
 
-🍕 - [Management of Pizza Company App](https://github.com/michel-ch/pizza)
+🍕 - [Management of Pizza Company App](https://hub.com/michel-ch/pizza)
 
-🎮 - [Unity 3D Game](https://github.com/michel-ch/unityXR)
+🎮 - [Unity 3D Game](https://hub.com/michel-ch/unityXR)
 
-🎦 - [Image Processing](https://github.com/michel-ch/traitement-images)
+🎦 - [Image Processing](https://hub.com/michel-ch/traitement-images)
 
-🏠 - [Housing Prices](https://github.com/michel-ch/HousingPrices)
+🏠 - [Housing Prices](https://hub.com/michel-ch/HousingPrices)
 
-🤖 - [Small Robot in Assembly](https://github.com/michel-ch/ASM-EvalBot)
+🤖 - [Small Robot in Assembly](https://hub.com/michel-ch/ASM-EvalBot)
 
-🎵 - [Out of deezer](https://github.com/michel-ch/musicDownloader)
+🎵 - [Out of deezer](https://hub.com/michel-ch/musicDownloader)
 
-⁉️ - [Quiz](https://github.com/michel-ch/quiz-app)
+⁉️ - [Quiz](https://hub.com/michel-ch/quiz-app)
 
-🚀 - [Solar System](https://github.com/michel-ch/solar-system)
+🚀 - [Solar System](https://hub.com/michel-ch/solar-system)
 
 
 ### 👷‍♂️ Current projects
