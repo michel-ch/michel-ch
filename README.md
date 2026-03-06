@@ -53,6 +53,11 @@ Development Tools & Platforms <br>
 
 🚀 - [Solar System](https://hub.com/michel-ch/solar-system)
 
+🔍 - [French Business Map Explorer](https://github.com/michel-ch/frenchCompanies)
+
+💪 - [Centurion](https://github.com/michel-ch/centurion)
+
+🎞️ - [Duplicate Video Detector](https://github.com/michel-ch/duplicateVideo)
 
 ### 👷‍♂️ Current projects
 
