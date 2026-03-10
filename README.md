@@ -33,31 +33,31 @@ Development Tools & Platforms <br>
 
 💻 - Image and language translation using artificial intelligence
 
-🎮 - [Small Python Game](https://hub.com/michel-ch/chronoSpy)
+🎮 - [Small Python Game](https://github.com/michel-ch/chronoSpy)
 
-🎮 - [Space Invaders](https://hub.com/michel-ch/SpaceInvaders)
+🎮 - [Space Invaders](https://github.com/michel-ch/SpaceInvaders)
 
-🍕 - [Management of Pizza Company App](https://hub.com/michel-ch/pizza)
+🍕 - [Management of Pizza Company App](https://github.com/michel-ch/pizza)
 
-🎮 - [Unity 3D Game](https://hub.com/michel-ch/unityXR)
+🎮 - [Unity 3D Game](https://github.com/michel-ch/unityXR)
 
-🎦 - [Image Processing](https://hub.com/michel-ch/traitement-images)
+🎦 - [Image Processing](https://github.com/michel-ch/traitement-images)
 
-🏠 - [Housing Prices](https://hub.com/michel-ch/HousingPrices)
+🏠 - [Housing Prices](https://github.com/michel-ch/HousingPrices)
 
-🤖 - [Small Robot in Assembly](https://hub.com/michel-ch/ASM-EvalBot)
+🤖 - [Small Robot in Assembly](https://github.com/michel-ch/ASM-EvalBot)
 
-🎵 - [Out of deezer](https://hub.com/michel-ch/musicDownloader)
+🎵 - [Out of deezer](https://github.com/michel-ch/musicDownloader)
 
-⁉️ - [Quiz](https://hub.com/michel-ch/quiz-app)
+⁉️ - [Quiz](https://github.com/michel-ch/quiz-app)
 
-🚀 - [Solar System](https://hub.com/michel-ch/solar-system)
+🚀 - [Solar System](https://github.com/michel-ch/solar-system)
 
-🔍 - [French Business Map Explorer](https://github.com/michel-ch/frenchCompanies)
+🔍 - [French Business Map Explorer](https://gitgithub.com/michel-ch/frenchCompanies)
 
-💪 - [Centurion](https://github.com/michel-ch/centurion)
+💪 - [Centurion](https://gitgithub.com/michel-ch/centurion)
 
-🎞️ - [Duplicate Video Detector](https://github.com/michel-ch/duplicateVideo)
+🎞️ - [Duplicate Video Detector](https://gitgithub.com/michel-ch/duplicateVideo)
 
 ### 👷‍♂️ Current projects
 
