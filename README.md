@@ -55,9 +55,11 @@ Development Tools & Platforms <br>
 
 🔍 - [French Business Map Explorer](https://github.com/michel-ch/frenchCompanies)
 
-💪 - [Centurion](https://github.com/michel-ch/centurion)
+💪 - [Centurion Training App Android](https://github.com/michel-ch/centurion)
 
 🎞️ - [Duplicate Video Detector](https://github.com/michel-ch/duplicateVideo)
+
+🎵 - [Music Player App Android](https://github.com/michel-ch/musicplayer)
 
 ### 👷‍♂️ Current projects
 
