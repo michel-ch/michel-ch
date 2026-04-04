@@ -33,8 +33,6 @@ Development Tools & Platforms <br>
 
 💻 - Image and language translation using artificial intelligence
 
-🎮 - [Small Python Game](https://github.com/michel-ch/chronoSpy)
-
 🎮 - [Space Invaders](https://github.com/michel-ch/SpaceInvaders)
 
 🍕 - [Management of Pizza Company App](https://github.com/michel-ch/pizza)
